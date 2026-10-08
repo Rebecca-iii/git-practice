@@ -1,3 +1,2 @@
 # git-practice
-# hiii
-# It's Rebecca
+hiii. It's Rebecca
